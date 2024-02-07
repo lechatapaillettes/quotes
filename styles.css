@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #fffcf2;
+    font-size: 14px;
+    color: #252422;
+    font-family: 'Podkova', Tahoma, serif;
+}
+
+h1 {
+    color: #252422;
+    font-family: 'Podkova', 'Times New Roman', serif;
+    font-size: 50px;
+    text-align: center;
+    margin: auto;
+}
+
+img {
+    width: 400px;
+    overflow: hidden;
+}
+
+.header-title {
+    background-color: #fffcf2;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.character,
+.book {
+    color: #403d39;
+    font-size: 12px;
+    font-family: 'Flamenco', 'Times New Roman', serif;
+}
+
+.section {
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 400px;
+    border-radius: 50% 20% / 10% 40%;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
+
+.quote-container {
+    padding: 30px 40px 40px 30px;
+}
+
+.quote {
+    padding: 10px 0px 10px 20px;
+}
+
+.one {
+    background-color: #FBC02D;
+}
+
+.one .container {
+    background-color: #FFF9C4;
+}
+
+.quote-one {
+    border-left: 5px solid #FFF176;
+}
+
+.two {
+    background-color: #689F38;
+}
+
+.two .container {
+    background-color: #DCEDC8;
+}
+
+.quote-two {
+    border-left: 5px solid #AED581;
+}
+
+.three {
+    background-color: #F57C00;
+}
+
+.three .container {
+    background-color: #FFE0B2;
+}
+
+.quote-three {
+    border-left: 5px solid #FFB74D;
+}
+
+.four {
+    background-color: #7B1FA2;
+}
+
+.four .container {
+    background-color: #E1BEE7;
+}
+
+.quote-four {
+    border-left: 5px solid #BA68C8;
+}
+
+.five {
+    background-color: #455A64;
+}
+
+.five .container {
+    background-color: #CFD8DC;
+}
+
+.quote-five {
+    border-left: 5px solid #90A4AE;
+}
+
+.six {
+    background-color: #AFB42B;
+}
+
+.six .container {
+    background-color: #F0F4C3;
+}
+
+.quote-six {
+    border-left: 5px solid #DCE775;
+}
+
+.seven {
+    background-color: #616161;
+}
+
+.seven .container {
+    background-color: #F5F5F5;
+}
+
+.quote-seven {
+    border-left: 5px solid #E0E0E0;
+}
+
+
+/* colores 100 claros 700 oscuros border left 300
+
+1 yellow
+2 light green
+3 orange
+4 purple
+5 blue grey
+6 lime
+7 grey/*
